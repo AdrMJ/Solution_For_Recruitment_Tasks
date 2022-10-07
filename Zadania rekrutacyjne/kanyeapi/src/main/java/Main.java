@@ -40,7 +40,7 @@ public class Main {
                 } else {
 
                     transcript = gson.fromJson(postResponse.body(), Transcript.class);
-
+                    v_quotes.add(transcript.getQuote());
                     System.out.println(transcript.getQuote());
                     System.out.println("Napisz \"next\", aby zobaczyć kolejny cytat");
 
