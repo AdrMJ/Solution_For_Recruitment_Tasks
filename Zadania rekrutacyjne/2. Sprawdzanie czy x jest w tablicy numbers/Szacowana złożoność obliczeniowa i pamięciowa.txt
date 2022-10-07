@@ -1,0 +1,2 @@
+w najlepszym przypadku O(log(log(n))
+w najgorszym O(n)

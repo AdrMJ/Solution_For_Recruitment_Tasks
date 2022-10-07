@@ -1,0 +1,3 @@
+- Tablica jest ponumerowanym szykiem danych, natomiast lista jest strukturą, składającą się z głowy(element z wartością NULL) i ogon( elementy tablicy z wartością określającą następny element).
+- W tablicy mamy swobodny dostęp do danych, ponieważ wystarczy wpisać numer odpowiadający indeksowi. Natomiast w listach odczyt danych jest podzielony na dwa etapy, pierwszy z nich to odnalezienie obiektu, drugi odczytanie odpowiedniej wartości.
+- Lista umożliwia dodawanie i usuwanie elementów, natomiast tablica tylko wyczyszczenie elementu, lecz dalej musi coś zawierać element, ponieważ nie możemy zmienić wielkości tablicy.

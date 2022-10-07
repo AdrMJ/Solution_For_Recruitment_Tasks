@@ -1,0 +1,1 @@
+Używa się do określenia, co klasa implementująca interfejs ma/musi zrobić.

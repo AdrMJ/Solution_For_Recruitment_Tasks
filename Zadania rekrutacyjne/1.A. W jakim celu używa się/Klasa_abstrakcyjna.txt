@@ -1,0 +1,2 @@
+Klasę abstrakcyjną używa się w celu stworzenia szablonu podobnych podklas, które dziedziczą metody od niej bez implementacji.
+ 
